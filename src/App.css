@@ -39,7 +39,17 @@
 
     }
   }
-
+@font-face {
+  font-family: "Gumela";
+  font-style: normal;
+  font-weight: 400;
+  src: url(../src/fonts/GumelaRegular.otf) format("truetype");
+}
+* {
+  font-family: "Gumela", sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+}
   
 
   
